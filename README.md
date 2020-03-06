@@ -7,7 +7,7 @@ This is a react-native application which demonstrates loading screen before land
 #### 1. Clone the project from the repo using git clone
 
 ```sh
-$ git clone ---
+$ git clone https://github.com/krishna-dalam/loading-sample.git
 ```
 
 #### 2. Run following command to install necessary libraries
