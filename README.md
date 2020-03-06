@@ -1,6 +1,6 @@
 # Loading icon example
 
-This is a react-native application which demonstrates loading screen before landing screen fetches a image from a 3rd party URL.
+This is a react-native application which demonstrates loading screen before landing screen fetches a image from a external URL.
 
 ## Steps to run the application
 
@@ -26,4 +26,12 @@ $ npm start
 
 - [Expo starter](https://expo.io/learn)
 
-### Congradulations! You have your application up and running
+## Congradulations! You have your application up and running
+
+#
+
+#
+
+#### Following is the reference article which formed a source for this application
+
+[Loading Icon for your React Native App](https://medium.com/analytics-vidhya/how-to-create-a-loading-icon-for-your-react-native-app-20d50cbf5dc3)
