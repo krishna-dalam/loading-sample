@@ -26,7 +26,7 @@ $ npm start
 
 - [Expo starter](https://expo.io/learn)
 
-## Congradulations! You have your application up and running
+## Congratulations! You have your application up and running
 
 #### Following is the reference article which formed a source for this application
 
